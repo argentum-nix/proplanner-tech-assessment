@@ -1,8 +1,22 @@
-# React + Vite
+# ProPlanner/Outbuild Tech Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the code for ProPlanner/Outbuild tech assessment, built with Vite, React & TailwindCSS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instructions
+Before running the app, install the dependencies with:
+```
+npm install
+```
+To run the repo locally, use:
+```
+npm run dev
+```
+To run the test suite, use:
+```
+npm run test
+```
+To login, the only valid email-password combination is:
+```
+prologin@prologin.com
+ProLogin123456
+```
